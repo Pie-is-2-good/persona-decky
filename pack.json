@@ -1,0 +1,10 @@
+{
+  "name": "Great Fairy Fountain",
+  "description": "From Legend of Zelda A Link to the past.",
+  "author": "Pie-is-2-good",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
